@@ -1,0 +1,51 @@
+CustomerID,Age,Gender,Income,CampaignChannel,CampaignType,AdSpend,ClickThrough,ConversionRate
+CUST0001,56,Other,55222,TV,Conversion,6988.27,0.43,0.2
+CUST0002,69,Female,97373,TV,Conversion,2362.65,0.12,0.07
+CUST0003,46,Male,99575,Radio,Engagement,1832.05,0.25,0.1
+CUST0004,32,Male,143684,Social Media,Awareness,9823.47,0.29,0.08
+CUST0005,60,Female,116354,Social Media,Awareness,5214.7,0.39,0.31
+CUST0006,25,Male,104651,Search Engine,Awareness,2682.21,0.03,0.02
+CUST0007,38,Male,83335,Email,Engagement,9962.91,0.5,0.36
+CUST0008,56,Female,30965,Search Engine,Conversion,9657.65,0.24,0.08
+CUST0009,36,Male,44538,Radio,Conversion,5627.11,0.15,0.03
+CUST0010,40,Other,128066,Radio,Awareness,8838.1,0.44,0.17
+CUST0011,28,Male,90592,Radio,Conversion,1968.2,0.38,0.2
+CUST0012,28,Female,118018,Radio,Conversion,2860.83,0.48,0.19
+CUST0013,41,Male,133252,Radio,Engagement,7033.54,0.17,0.12
+CUST0014,53,Female,28110,TV,Engagement,8481.95,0.28,0.1
+CUST0015,57,Female,99309,Social Media,Engagement,8577.61,0.29,0.23
+CUST0016,41,Male,47266,Radio,Engagement,4104.63,0.49,0.23
+CUST0017,20,Other,72992,Email,Awareness,8888.92,0.05,0.04
+CUST0018,39,Female,102948,Email,Engagement,8524.19,0.16,0.05
+CUST0019,19,Other,142073,Email,Conversion,9362.79,0.1,0.04
+CUST0020,41,Female,118806,Email,Awareness,7874.87,0.14,0.09
+CUST0021,61,Female,26910,TV,Conversion,6722.98,0.25,0.07
+CUST0022,47,Other,130989,Email,Conversion,5848.8,0.19,0.05
+CUST0023,55,Male,110982,Radio,Conversion,3785.6,0.2,0.16
+CUST0024,19,Male,141626,Search Engine,Engagement,9407.32,0.42,0.26
+CUST0025,38,Male,139176,Email,Engagement,9739.27,0.47,0.11
+CUST0026,50,Male,20206,TV,Awareness,2910.82,0.04,0.02
+CUST0027,29,Male,107054,TV,Awareness,3123.1,0.11,0.05
+CUST0028,39,Male,107897,Email,Engagement,4907.58,0.34,0.22
+CUST0029,61,Female,142409,Search Engine,Conversion,4539.4,0.19,0.07
+CUST0030,42,Male,43419,Email,Awareness,9945.13,0.13,0.04
+CUST0031,66,Male,70636,TV,Engagement,1841.66,0.15,0.04
+CUST0032,44,Female,142546,Social Media,Engagement,278.95,0.17,0.08
+CUST0033,59,Male,134238,Radio,Engagement,4989.55,0.43,0.26
+CUST0034,45,Female,70015,TV,Conversion,1870.34,0.08,0.02
+CUST0035,33,Male,137478,Email,Engagement,3728.04,0.36,0.27
+CUST0036,32,Other,142096,Radio,Engagement,7467.29,0.28,0.13
+CUST0037,64,Female,127059,Email,Engagement,7237.31,0.16,0.06
+CUST0038,68,Male,74268,Email,Engagement,3149.8,0.22,0.06
+CUST0039,61,Male,130687,Social Media,Awareness,5471.15,0.14,0.04
+CUST0040,69,Female,107939,Radio,Awareness,5137.26,0.31,0.24
+CUST0041,20,Female,38141,Radio,Engagement,6399.69,0.05,0.03
+CUST0042,54,Female,100356,Social Media,Conversion,2579.57,0.01,0.01
+CUST0043,68,Female,125878,TV,Awareness,5939.72,0.32,0.19
+CUST0044,24,Male,91910,Email,Engagement,9791.04,0.11,0.05
+CUST0045,38,Male,76044,Search Engine,Awareness,4918.75,0.04,0.03
+CUST0046,26,Male,87214,Email,Awareness,9070.38,0.2,0.05
+CUST0047,56,Female,137930,Email,Conversion,4400.5,0.03,0.02
+CUST0048,35,Female,139324,TV,Engagement,3565.78,0.44,0.13
+CUST0049,21,Male,53827,Email,Engagement,6486.52,0.02,0.01
+CUST0050,42,Male,75820,Social Media,Conversion,6722.35,0.29,0.12
